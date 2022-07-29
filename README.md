@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guinunesamaral
-- 👀 I’m interested in reading, gaming, exercising, movies and coding
+- 👀 I’m interested in reading, gaming, working out, movies and coding
 - 🌱 I’m currently learning Vue.js
 
 <!---
