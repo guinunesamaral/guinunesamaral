@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guinunesamaral
-- 👀 I’m interested in reading, gaming, working out, movies and coding
-- 🌱 I’m currently learning Vue.js
+- 👋 Hi, my name is Guilherme Nunes and I am a junior software developer from Brazil
+- 👀 I’m interested in reading, gaming, working out, movies and coding, of course
+- 🌱 I’m currently working with Vue.js, Vuetify, C# and .NET 6
 
 <!---
 guinunesamaral/guinunesamaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
