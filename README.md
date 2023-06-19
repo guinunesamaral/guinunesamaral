@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Guilherme Nunes and I am a junior software developer from Brazil
+- 👋 Hi, my name is Guilherme Nunes and I am a Full Stack Developer from Brazil
 - 👀 I’m interested in reading, gaming, working out, movies and coding, of course
 - 🌱 I’m currently working with Vue.js, Vuetify, C# and .NET 6
 
